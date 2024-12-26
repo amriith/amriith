@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Amrith Jayadeep</h1>
-
+<h3 align="center">I currently pursuing my Masters in IT from Deakin University, Melbourne </h3>
 
 - 📫 How to reach me **ajnineonesix@gmail.com**
 
@@ -8,3 +8,7 @@
 
 
 - <img src="https://github-readme-stats.vercel.app/api?username=amriith&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+
+
+
+Connect with me on LinkedIn **https://www.linkedin.com/in/amrith-jayadeep-672129211/**
