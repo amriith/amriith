@@ -1,3 +1,6 @@
+<h1 align="center">Hello , I'm Amrith Jayadeep</h1>
+
+
 - 📫 How to reach me **ajnineonesix@gmail.com**
 
 
