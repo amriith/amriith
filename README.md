@@ -1,1 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api?username=amriith&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+- 📫 How to reach me **ajnineonesix@gmail.com**
+- <img src="https://github-readme-stats.vercel.app/api?username=amriith&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
