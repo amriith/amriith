@@ -10,5 +10,7 @@
 - <img src="https://github-readme-stats.vercel.app/api?username=amriith&show_icons=true&show=reviews&theme=dark" />
 
 
+<a href=#><img src="https://raw.githubusercontent.com/amriith/amriith/output/github-contribution-grid-snake.sv"></a>
+
 
 Connect with me on LinkedIn **https://www.linkedin.com/in/amrith-jayadeep-672129211/**
