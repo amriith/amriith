@@ -11,14 +11,22 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate SVG-only Snake files
+      - name: Generate SVG-only files
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/only-svg/github-contribution-grid-snake.svg
             dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: Platane/snk@v3
+      # Generate SVG and GIF Snake files
+      - name: Generate SVG and GIF files
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -26,9 +34,17 @@ jobs:
             dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/docker/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: ensure the generated file exists
+      # Debug: Verify generated files
+      - name: Debug generated files
         run: |
-          ls dist
+          echo "Listing current directory contents..."
+          ls -R
+          echo "Checking 'dist' directory contents..."
+          ls -R dist || echo "dist directory does not exist"
+
+      # Ensure the generated files exist
+      - name: Ensure generated files exist
+        run: |
           test -f dist/only-svg/github-contribution-grid-snake.svg
           test -f dist/only-svg/github-contribution-grid-snake-dark.svg
 
@@ -36,7 +52,8 @@ jobs:
           test -f dist/docker/github-contribution-grid-snake-dark.svg
           test -f dist/docker/github-contribution-grid-snake.gif
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Push files to the output branch
+      - name: Push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: manual-run-output
