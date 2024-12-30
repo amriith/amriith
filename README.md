@@ -9,6 +9,6 @@
 
 - <img src="https://github-readme-stats.vercel.app/api?username=amriith&show_icons=true&show=reviews&theme=dark" />
 
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 
 Connect with me on LinkedIn **https://www.linkedin.com/in/amrith-jayadeep-672129211/**
