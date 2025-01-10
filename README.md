@@ -7,3 +7,4 @@ Connect with me on LinkedIn https://www.linkedin.com/in/amrith-jayadeep-67212921
 
 [![An image of @amriith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amriith)](https://holopin.io/@amriith)
 
+![snake gif](https://github.com/amriith/amriith/blob/output/github-snake-dark.svg)
