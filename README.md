@@ -14,7 +14,9 @@
 [![An image of @amriith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amriith)](https://holopin.io/@amriith)
 
 <div align="center">
+  
 ![snake gif](https://github.com/amriith/amriith/blob/output/github-snake-dark.svg)
+
 </div>   
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=amriith&label=Profile%20views&color=0e75b6&style=flat" alt="amrithJayadeep" /> </p>
