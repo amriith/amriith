@@ -1,9 +1,6 @@
 <h1 align="center">Hello , I'm Amrith Jayadeep</h1>  
 <h3 align="center">Currently pursuing my Masters in IT from Deakin University, Melbourne </h3>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amriith&show_icons=true&show=reviews&theme=dark" />
-</div>
 <!-- Socials -->
 <div align="center">
   
