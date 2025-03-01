@@ -7,7 +7,7 @@
 ## 🌐 Connect with Me.
 
 
-[![View My Portfolio](https://dummyimage.com/50x90/4e5d6c/fff.png?text=Portfolio)](https://amrith.mriid.com)
+[![View My Portfolio](https://dummyimage.com/80x40/4e5d6c/fff.png?text=Portfolio)](https://amrith.mriid.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrith-jayadeep-672129211/)  
 </div>
 
