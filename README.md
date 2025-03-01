@@ -5,8 +5,10 @@
 <div align="center">
   
 ## 🌐 Connect with Me.
- [![ View My Portfolio](https://via.placeholder.com/100?text=Portfolio)](https://dummyimage.com/150x150/4e5d6c/fff.png?text=Portfolio)](https://amrith.mriid.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrith-jayadeep-672129211/)  
+
+
+[![View My Portfolio](https://dummyimage.com/150x150/4e5d6c/fff.png?text=Portfolio)](https://amrith.mriid.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrith-jayadeep-672129211/)  
 </div>
 
 [![An image of @amriith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amriith)](https://holopin.io/@amriith)
