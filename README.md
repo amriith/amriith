@@ -5,7 +5,7 @@
 <div align="center">
   
 ## 🌐 Connect with Me.
- [![Portfolio]()](https://amrith.mriid.com)  
+ [![Portfolio](https://via.placeholder.com/100?text=Portfolio)](https://amrith.mriid.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrith-jayadeep-672129211/)  
 </div>
 
