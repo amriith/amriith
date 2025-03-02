@@ -4,7 +4,7 @@
 <!-- Socials -->
 <div align="center">
   
-## 🌐 Connect with Me.
+## 🌐 Connect with Me
 
 
 [![View My Portfolio](https://dummyimage.com/80x20/4e5d6c/fff.png?text=Portfolio)](https://amrith.mriid.com)
