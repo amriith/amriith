@@ -16,19 +16,13 @@
 
 ## 🛠 Skills
 
-- Programming Languages: Python, Java, JavaScript
+- Programming Languages: TypeScript, Python, Java, JavaScript
 - Web Development: HTML, CSS, React
 - Databases: MySQL, PostgreSQL
-- Tools & Technologies: Git, Docker, AWS
+- Tools & Technologies: Git, Docker, AWS, Terraform
 
 ---
 
-## 📂 Projects
-
-- **Project Name**: Brief description of what the project does and your role in it.
-- **Another Project**: Brief description of what the project does and your role in it.
-
----
 
 ## 📈 GitHub Stats
 
@@ -44,15 +38,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amriith&layout=compact)
 
----
-
-## 🏆 Achievements
-
-- **Certification Name**: Brief description of the certification.
-- **Award Name**: Brief description of the award.
-
----
 
 ## 📫 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amrith-jayadeep-672129211/) or [email](mailto:your-email@example.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amrith-jayadeep-672129211/) or [email](ajnineonesix@gmail.com).
