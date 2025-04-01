@@ -12,6 +12,26 @@
 
 [![Holopin Badges](https://holopin.me/amriith)](https://holopin.io/@amriith)
 
+---
+
+## 🛠 Skills
+
+- Programming Languages: Python, Java, JavaScript
+- Web Development: HTML, CSS, React
+- Databases: MySQL, PostgreSQL
+- Tools & Technologies: Git, Docker, AWS
+
+---
+
+## 📂 Projects
+
+- **Project Name**: Brief description of what the project does and your role in it.
+- **Another Project**: Brief description of what the project does and your role in it.
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
   
 ![GitHub Snake Animation](https://github.com/amriith/amriith/blob/output/github-snake-dark.svg)
@@ -23,3 +43,16 @@
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amriith&layout=compact)
+
+---
+
+## 🏆 Achievements
+
+- **Certification Name**: Brief description of the certification.
+- **Award Name**: Brief description of the award.
+
+---
+
+## 📫 Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amrith-jayadeep-672129211/) or [email](mailto:your-email@example.com).
