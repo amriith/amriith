@@ -20,3 +20,4 @@
 </div>   
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=amriith&label=Profile%20views&color=0e75b6&style=flat" alt="amrithJayadeep" /> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amriith&layout=compact)
