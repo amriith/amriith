@@ -35,6 +35,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amriith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-## 📫 Contact
+📫 Contact
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amrith-jayadeep-672129211/) or [email](ajnineonesix@gmail.com).
